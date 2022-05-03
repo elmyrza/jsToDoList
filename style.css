@@ -1,5 +1,5 @@
 .main {
-	background: url(assets/bg.jpg) center 50% no-repeat;
+	background: url(bg.jpg) center 50% no-repeat;
 	height: 85rem;
 }
 .main_field {
@@ -15,7 +15,7 @@
 .main_field ul {
 	width: 82%;
 	margin:5rem 10% 5rem 8%;
-	list-style-image:url(assets/list.png);
+	list-style-image:url(list.png);
 }
 .main_field ul li {
 	height: 5rem;
